@@ -1,2 +1,1 @@
-# Java-Note-Application
-This is a simple code for a java note application. This is only the source code for it.
+Ok, so right here is the deal with this application. It is a simple note app for taking notes. This is very bare bones and does not save to a text file. So if you want to play around with it and add your own things to i,t go ahead. I won't even ask you to like mention me because of how bare bones this application is. Steal it and make it yours. The power is in your hands. 
